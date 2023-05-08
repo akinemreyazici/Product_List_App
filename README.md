@@ -19,10 +19,12 @@ implementation 'com.github.bumptech.glide:glide:4.15.1'
 The above dependencies include Retrofit, Gson Converter, and Glide libraries. You can add them by copying and pasting the above code to the dependencies block of your build.gradle file.
 ```
 
+## Andorid Manifest
+
 ```AndroidManifest.xml
 <uses-permission android:name="android.permission.INTERNET" />
 
-Also, don't forget to allow your application to connect to the Internet.
+Don't forget to allow your application to connect to the Internet.
 
 ```
-The above code snippet shows the INTERNET permission that should be added to your AndroidManifest.xml file to enable your application to access the internet. Additionally, the sentence reminds you to grant your app the necessary permissions to connect to the Internet, so it can fetch data from the RESTful API.
+
