@@ -42,3 +42,21 @@ Don't forget to allow your application to connect to the Internet.
 
 In the above image, you can see that the client app (which is my Android app in this case) sends a request to the server (which is dummyjson.com), and the server sends a response back to the client in the form of JSON data. The client app then parses the JSON data and displays it to the user.
 
+## Demo
+
+### Login
+
+![jsonparser_login](https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif)
+
+### Search
+
+![jsonparser_searcg](https://user-images.githubusercontent.com/116732291/236849448-7a930dee-398c-43df-ab39-68d8fb46d4f1.gif)
+
+### Product Detail
+
+![jsonparser_detail](https://user-images.githubusercontent.com/116732291/236849531-25898763-2c0c-4e34-92a6-971b010a9bea.gif)
+
+
+
+
+
