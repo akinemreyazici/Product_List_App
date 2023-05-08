@@ -38,7 +38,7 @@ Don't forget to allow your application to connect to the Internet.
 </p>
 
 
-<p align="center">In the above image, you can see that the client app (which is my Android app in this case) sends a request to the server (which is dummyjson.com), and the server sends a response back to the client in the form of JSON data. The client app then parses the JSON data and displays it to the user.</p>
+In the above image, you can see that the client app (which is my Android app in this case) sends a request to the server (which is dummyjson.com), and the server sends a response back to the client in the form of JSON data. The client app then parses the JSON data and displays it to the user.
 
 
 
@@ -47,8 +47,9 @@ Don't forget to allow your application to connect to the Internet.
 ### Login
 
 - You can log in with one of the users registered on dummyjson.com/users on this website.
+<p align="center">
 <img src="https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif" alt="jsonparser_login" width="500">
-
+</p>
 
 ### Search
 
