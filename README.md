@@ -46,7 +46,7 @@ In the above image, you can see that the client app (which is my Android app in 
 
 ### Login
 
-<img src="https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif" alt="jsonparser_login" width="500">
+<img src="https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif" alt="jsonparser_login" width="500" style="display: block; margin: auto;">
 
 
 ### Search
