@@ -32,7 +32,8 @@ Don't forget to allow your application to connect to the Internet.
 
 ```
 
-<img src="file:///Users/shyonei./Downloads/rest-api-nedir-nasil-calisir.jpg" width="500" height="300">
+
+<img src="https://user-images.githubusercontent.com/116732291/236847033-24be90f6-306d-43d6-a675-371abc91bef8.jpg" width="500">
 
 
 
