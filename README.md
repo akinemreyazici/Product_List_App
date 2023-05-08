@@ -32,3 +32,6 @@ Don't forget to allow your application to connect to the Internet.
 
 ```
 
+![rest-api-nedir-nasil-calisir](https://user-images.githubusercontent.com/116732291/236842865-5c94c2ec-8c39-466a-aa83-828748796e6a.jpg)
+
+In the above image, you can see that the client app (which is my Android app in this case) sends a request to the server (which is dummyjson.com), and the server sends a response back to the client in the form of JSON data. The client app then parses the JSON data and displays it to the user.
