@@ -38,9 +38,10 @@ Don't forget to allow your application to connect to the Internet.
 </p>
 
 
+<div style="text-align: center;">
+    In the above image, you can see that the client app (which is my Android app in this case) sends a request to the server (which is dummyjson.com), and the server sends a response back to the client in the form of JSON data. The client app then parses the JSON data and displays it to the user.
+</div>
 
-
-In the above image, you can see that the client app (which is my Android app in this case) sends a request to the server (which is dummyjson.com), and the server sends a response back to the client in the form of JSON data. The client app then parses the JSON data and displays it to the user.
 
 ## Demo
 
