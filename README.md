@@ -23,7 +23,7 @@ implementation 'com.github.bumptech.glide:glide:4.15.1'
 The above dependencies include Retrofit, Gson Converter, and Glide libraries. You can add them by copying and pasting the above code to the dependencies block of your build.gradle file.
 ```
 
-## AndoridManifest.xml
+## AndroidManifest.xml
 
 ```AndroidManifest.xml
 <uses-permission android:name="android.permission.INTERNET" />
