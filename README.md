@@ -46,16 +46,19 @@ In the above image, you can see that the client app (which is my Android app in 
 
 ### Login
 
-<img src="https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif" alt="jsonparser_login" width="500" style="display: block; margin: auto;">
+- You can log in with one of the users registered on dummyjson.com/users on this website.
+<img src="https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif" alt="jsonparser_login" width="500">
 
 
 ### Search
 
-![jsonparser_searcg](https://user-images.githubusercontent.com/116732291/236849448-7a930dee-398c-43df-ab39-68d8fb46d4f1.gif)
+- You can search products through the search bar on the top of the main page. The results will be displayed on the same page.
+<img src="https://user-images.githubusercontent.com/116732291/236849448-7a930dee-398c-43df-ab39-68d8fb46d4f1.gif" alt="jsonparser_search" width="500"> 
 
 ### Product Detail
 
-![jsonparser_detail](https://user-images.githubusercontent.com/116732291/236849531-25898763-2c0c-4e34-92a6-971b010a9bea.gif)
+- You can see the details of products registered on dummyjson.com/products in the application.
+<img src="https://user-images.githubusercontent.com/116732291/236849531-25898763-2c0c-4e34-92a6-971b010a9bea.gif" alt="jsonparser_detail" width="500">
 
 
 
