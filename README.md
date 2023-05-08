@@ -46,7 +46,7 @@ In the above image, you can see that the client app (which is my Android app in 
 
 ### Login
 
-- You can log in with one of the users registered on dummyjson.com/users on this website.
+- You can log in with one of the users registered on https://dummyjson.com/users on this website.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif" alt="jsonparser_login" width="500">
 </p>
@@ -60,7 +60,7 @@ In the above image, you can see that the client app (which is my Android app in 
 
 ### Product Detail
 
-- You can see the details of products registered on dummyjson.com/products in the application.
+- You can see the details of products registered on https://dummyjson.com/products in the application.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/116732291/236849531-25898763-2c0c-4e34-92a6-971b010a9bea.gif" alt="jsonparser_detail" width="500">
 </p>
