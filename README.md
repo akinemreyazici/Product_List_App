@@ -46,7 +46,7 @@ In the above image, you can see that the client app (which is my Android app in 
 
 ### Login
 
-- You can log in with one of the users registered on [dummyjson.com/user](https://dummyjson.com/users) on this website.
+- You can log in with one of the users registered on [dummyjson.com/user](https://dummyjson.com/users)  this website.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/116732291/236849364-31ee47da-7363-431f-bdf9-d4e5ebbfe804.gif" alt="jsonparser_login" width="500">
 </p>
