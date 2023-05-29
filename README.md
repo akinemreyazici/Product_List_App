@@ -1,6 +1,7 @@
 # Product List Application
 
- This project fetches relevant JSON data from a RESTful API called DummyJson to create an application with a login screen, a screen for listing products and searching for them, and a detail screen that displays information about a selected product. All data is fetched from Kotlin using the Retrofit library. The Glide library is used to display images of the products.
+## Description
+This project fetches relevant JSON data from a RESTful API called DummyJson to create an application with a login screen, a screen for listing products and searching for them, and a detail screen that displays information about a selected product. All data is fetched from Kotlin using the Retrofit library. The Glide library is used to display images of the products.
  
 ## Used Technologies
 
